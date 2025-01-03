@@ -1,0 +1,8 @@
+Name,Age,Email,Registration_Date,Country,Salary
+John Doe,25,john.doe@example.com,2023-01-15,USA,50000
+Jane Smith,,jane.smith@example,2023-02-30,USA,55000
+Alice Johnson,28,alice.j@example.com,,Canada,N/A
+None,32,,2023-03-20,,70000
+Michael,N/A,michael@,Invalid Date,Canada,80000
+,40,,2023/04/25,UK,45000
+Robert Brown,Thirty,robert.b@example.com,2023-05-10,Germany,

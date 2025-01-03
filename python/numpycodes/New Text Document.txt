@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "hostel_name": "Hostel A",
+      "medical_history": [
+        {
+          "condition": "Asthma",
+          "treatment": "Inhaler",
+          "date": "2023-01-15"
+        },
+        {
+          "condition": "Diabetes",
+          "treatment": "Insulin",
+          "date": "2024-06-20"
+        }
+      ],
+      "appointments": [
+        {
+          "date": "2025-01-10",
+          "time": "10:00 AM"
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "hostel_name": "Hostel B",
+      "medical_history": [
+        {
+          "condition": "Migraine",
+          "treatment": "Painkillers",
+          "date": "2024-03-10"
+        }
+      ],
+      "appointments": [
+        {
+          "date": "2025-01-12",
+          "time": "2:00 PM"
+        }
+      ]
+    }
+  ],
+  "hostel_data": {
+    "Hostel A": {
+      "total_patients": 120,
+      "predicted_patients": 130
+    },
+    "Hostel B": {
+      "total_patients": 80,
+      "predicted_patients": 90
+    }
+  }
+}
